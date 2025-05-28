@@ -1,0 +1,22 @@
+# Project dependencies
+
+# Ingestion
+
+polygon-api-client
+pyYAML
+
+# Data processing
+pandas==2.2.3
+pandas-ta
+numpy==1.26.4
+
+# Modeling
+tensorflow==2.19.0
+scikit-learn==1.6.1
+
+# Reporting
+
+streamlit==1.45.0
+plotly==6.0.1
+
+# Optionally pin versions, e.g.

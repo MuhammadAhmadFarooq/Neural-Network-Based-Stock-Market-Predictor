@@ -1,0 +1,9 @@
+symbols:
+  - AAPL
+  - MSFT
+  - GOOGL
+  - AMZN
+  - TSLA
+interval: day
+start_date: 2015-01-01
+end_date:   2025-03-31
